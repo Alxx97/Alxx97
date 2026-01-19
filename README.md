@@ -1,5 +1,5 @@
 # Hi, I'm Alexis 👋  
-**Data Scientist · ML · Data Engineering**
+**Applied ML · Data Engineering · Production Systems**
 
 Data Scientist with a strong background in Machine Learning and Data Engineering.
 Experienced in building, deploying, and maintaining data pipelines and ML models in production using Python, SQL, AWS, and modern tooling.
