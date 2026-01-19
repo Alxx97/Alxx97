@@ -43,4 +43,4 @@ Currently working on applied ML projects involving data pipelines, APIs, and pro
 ### GitHub Stats
 ---
 
-![](https://github-readme-stats.vercel.app/api?username=Alxx97&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=Alxx97&theme=dark&show_icons=true)
