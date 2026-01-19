@@ -32,5 +32,6 @@
 ![UV](https://img.shields.io/badge/uv-%23150458.svg?style=for-the-badge&logo=uv&logoColor=white)
 
 ### GitHub Stats
+---
 
 ![](https://github-readme-stats.vercel.app/api?username=Alxx97&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
